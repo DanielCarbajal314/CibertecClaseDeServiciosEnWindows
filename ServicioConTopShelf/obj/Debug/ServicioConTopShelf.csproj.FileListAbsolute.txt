@@ -1,0 +1,8 @@
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\ServicioConTopShelf.exe.config
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\ServicioConTopShelf.exe
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\ServicioConTopShelf.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\Topshelf.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\Topshelf.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\Debug\ServicioConTopShelf.csprojResolveAssemblyReference.cache
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\Debug\ServicioConTopShelf.exe
+c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\Debug\ServicioConTopShelf.pdb
