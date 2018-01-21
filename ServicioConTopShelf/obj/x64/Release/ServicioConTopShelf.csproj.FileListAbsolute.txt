@@ -1,0 +1,11 @@
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\ServicioConTopShelf.exe.config
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\ServicioConTopShelf.exe
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\ServicioConTopShelf.pdb
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\NLog.dll
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\Topshelf.dll
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\Topshelf.NLog.dll
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\NLog.xml
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\Topshelf.xml
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\x64\Release\Topshelf.NLog.xml
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\x64\Release\ServicioConTopShelf.exe
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\x64\Release\ServicioConTopShelf.pdb

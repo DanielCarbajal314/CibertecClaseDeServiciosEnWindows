@@ -6,3 +6,7 @@ c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\Se
 c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\Debug\ServicioConTopShelf.csprojResolveAssemblyReference.cache
 c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\Debug\ServicioConTopShelf.exe
 c:\users\visual_dom\documents\visual studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\obj\Debug\ServicioConTopShelf.pdb
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\NLog.dll
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\Topshelf.NLog.dll
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\NLog.xml
+c:\Users\Visual_Dom\Documents\Visual Studio 2015\Projects\ServicioConTopShelf\ServicioConTopShelf\bin\Debug\Topshelf.NLog.xml

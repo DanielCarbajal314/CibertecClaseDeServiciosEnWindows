@@ -12,6 +12,7 @@ namespace ServicioConTopShelf
         static void Main(string[] args)
         {
             HostFactory.Run(configuracionDelServicio=> {
+                configuracionDelServicio.UseNLog();
                 configuracionDelServicio.Service<ServicioConvertidorDeArchivos>
                 (
                     instanciaDelServicio =>
